@@ -1,0 +1,12 @@
+{
+  "id": "radiance",
+  "name": "發光的瞬間",
+  "shortLabel": "發光",
+  "subtitle": "成就、驕傲、被看見、好評價——你那道光被照見",
+  "color": "#C9943E",
+  "icon": "radiance",
+  "isDefault": true,
+  "lightBg": "rgba(201,148,62,0.10)",
+  "createdAt": "2026-06-12T17:12:22.644Z",
+  "updatedAt": "2026-06-12T17:12:22.644Z"
+}

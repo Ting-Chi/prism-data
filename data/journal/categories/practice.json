@@ -1,0 +1,12 @@
+{
+  "id": "practice",
+  "name": "心上的沉澱",
+  "shortLabel": "沉澱",
+  "subtitle": "失落、難關、放不下、還沒想通的重",
+  "color": "#5B8FA0",
+  "icon": "moon",
+  "isDefault": true,
+  "lightBg": "rgba(91,143,160,0.10)",
+  "createdAt": "2026-06-12T17:12:22.644Z",
+  "updatedAt": "2026-06-12T17:12:22.644Z"
+}

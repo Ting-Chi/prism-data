@@ -1,0 +1,12 @@
+{
+  "id": "dialogue",
+  "name": "與人的共鳴",
+  "shortLabel": "共鳴",
+  "subtitle": "與人的連結——被懂、深聊、衝突、被傷",
+  "color": "#9A7B5B",
+  "icon": "dialogue",
+  "isDefault": true,
+  "lightBg": "rgba(154,123,91,0.10)",
+  "createdAt": "2026-06-12T17:12:22.644Z",
+  "updatedAt": "2026-06-12T17:12:22.644Z"
+}

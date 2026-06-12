@@ -1,0 +1,12 @@
+{
+  "id": "awareness",
+  "name": "向內的覺察",
+  "shortLabel": "覺察",
+  "subtitle": "領悟、模式的發現、對自己的理解",
+  "color": "#8E7DAE",
+  "icon": "awareness",
+  "isDefault": true,
+  "lightBg": "rgba(142,125,174,0.10)",
+  "createdAt": "2026-06-12T17:12:22.644Z",
+  "updatedAt": "2026-06-12T17:12:22.644Z"
+}
