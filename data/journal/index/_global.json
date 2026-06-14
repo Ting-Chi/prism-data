@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastWriteAt": "2026-06-14T08:59:57.592Z",
+  "lastWriteAt": "2026-06-14T09:02:38.869Z",
   "entities": {
     "entries:b33fc23f-dbfe-4206-af8e-ed89653b7bd4": {
       "path": "data/journal/entries/2026/06/2026-06-13-b33fc23f-dbfe-4206-af8e-ed89653b7bd4.json",
@@ -290,31 +290,36 @@
     },
     "categories:awareness": {
       "path": "data/journal/categories/awareness.json",
-      "updatedAt": "2026-06-12T17:12:22.644Z"
+      "updatedAt": "2026-06-12T17:24:44.047Z"
     },
     "categories:dialogue": {
       "path": "data/journal/categories/dialogue.json",
-      "updatedAt": "2026-06-12T17:12:22.644Z"
+      "updatedAt": "2026-06-12T17:24:44.047Z"
     },
     "categories:energy": {
       "path": "data/journal/categories/energy.json",
-      "updatedAt": "2026-06-12T17:12:22.644Z"
+      "updatedAt": "2026-06-12T17:24:44.047Z"
     },
     "categories:practice": {
       "path": "data/journal/categories/practice.json",
-      "updatedAt": "2026-06-12T17:12:22.644Z"
+      "updatedAt": "2026-06-12T17:24:44.047Z"
     },
     "categories:radiance": {
       "path": "data/journal/categories/radiance.json",
-      "updatedAt": "2026-06-12T17:12:22.644Z"
+      "updatedAt": "2026-06-12T17:24:44.047Z"
     },
     "categories:spark": {
       "path": "data/journal/categories/spark.json",
-      "updatedAt": "2026-06-12T17:12:22.644Z"
+      "updatedAt": "2026-06-12T17:24:44.047Z"
     },
     "categories:surprise": {
       "path": "data/journal/categories/surprise.json",
-      "updatedAt": "2026-06-12T17:12:22.644Z"
+      "updatedAt": "2026-06-12T17:24:44.047Z"
+    },
+    "reflection:2026-06": {
+      "path": "data/journal/reflections/monthly/2026-06.json",
+      "updatedAt": "2026-06-14T09:02:38.869Z",
+      "hash": "6pf2y0"
     }
   }
 }
