@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "lastWriteAt": "2026-06-15T02:39:43.318Z",
+  "lastWriteAt": "2026-06-17T09:44:39.893Z",
   "entities": {
     "entries:0e286072-e1f8-4316-b69b-323b20fcd0ee": {
       "path": "data/journal/entries/2026/05/2026-05-14-0e286072-e1f8-4316-b69b-323b20fcd0ee.json",
-      "updatedAt": "2026-06-14T08:59:09.511Z"
+      "updatedAt": "2026-06-17T09:44:39.893Z"
     },
     "entries:0ecc9e49-f35e-44cc-a3d4-c7500debda30": {
       "path": "data/journal/entries/2026/03/2026-03-07-0ecc9e49-f35e-44cc-a3d4-c7500debda30.json",
