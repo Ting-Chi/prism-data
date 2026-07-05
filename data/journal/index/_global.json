@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastWriteAt": "2026-06-17T14:01:04.710Z",
+  "lastWriteAt": "2026-07-05T05:23:14.784Z",
   "entities": {
     "entries:0e286072-e1f8-4316-b69b-323b20fcd0ee": {
       "path": "data/journal/entries/2026/05/2026-05-14-0e286072-e1f8-4316-b69b-323b20fcd0ee.json",
@@ -29,6 +29,10 @@
     "entries:5825c4d3-f693-4aa7-b823-4666b04188be": {
       "path": "data/journal/entries/2026/05/2026-05-14-5825c4d3-f693-4aa7-b823-4666b04188be.json",
       "updatedAt": "2026-06-14T08:59:57.592Z"
+    },
+    "entries:6b84adfe-6f0b-4d8a-abd9-abe2d20bf2e7": {
+      "path": "data/journal/entries/2026/07/2026-07-05-6b84adfe-6f0b-4d8a-abd9-abe2d20bf2e7.json",
+      "updatedAt": "2026-07-05T05:23:14.784Z"
     },
     "entries:6d2bb4e0-ba66-493a-bd37-19cf9544ccf6": {
       "path": "data/journal/entries/2026/02/2026-02-15-6d2bb4e0-ba66-493a-bd37-19cf9544ccf6.json",
